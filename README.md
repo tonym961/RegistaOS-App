@@ -22,6 +22,18 @@ mostra solo i collegamenti `http`):
 Senza Obtainium: si scarica a mano dalla
 [pagina delle release](../../releases/latest).
 
+## I due canali
+
+| Canale | Dove | Chi lo riceve |
+|---|---|---|
+| **produzione** | release normale, `latest.json` | tutti |
+| **beta** | release marcata **prerelease**, `latest-beta.json` | chi accende il canale beta nell'app, o *Include prereleases* in Obtainium |
+
+Le beta sono prerelease di proposito. Obtainium ordina le release per data, non
+per versione: se fossero release normali, l'ultima beta comparirebbe come
+«ultima versione» a tutti, perche' esce dopo la produzione. Con `prerelease` il
+predefinito di Obtainium le salta, e chi le vuole accende un interruttore.
+
 ## Com'e' organizzato
 
 | Dove | Cosa |
