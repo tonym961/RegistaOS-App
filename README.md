@@ -5,22 +5,37 @@ legge per sapere se c'e' una versione nuova. Il codice sta altrove.
 
 ## Installare e tenere aggiornata l'app
 
-Con [Obtainium](https://github.com/ImranR98/Obtainium): aggiungi come app
-l'indirizzo di questo repository
+Con [Obtainium](https://github.com/ImranR98/Obtainium): *Add App*, e come
+indirizzo
 
     https://github.com/tonym961/RegistaOS-App
 
-e Obtainium legge le Release, riconosce le versioni e avvisa da solo.
+Niente altro da impostare: Obtainium legge le Release, ricava la versione dal
+tag e avvisa da solo quando ne esce una nuova.
 
-Oppure a mano, dalla [pagina delle release](../../releases/latest).
+Dal telefono si puo' anche aprire questo indirizzo nel browser, che apre
+Obtainium con il campo gia' compilato (non e' cliccabile qui perche' GitHub
+mostra solo i collegamenti `http`):
+
+    obtainium://add/https://github.com/tonym961/RegistaOS-App
+
+Senza Obtainium: si scarica a mano dalla
+[pagina delle release](../../releases/latest).
 
 ## Com'e' organizzato
 
 | Dove | Cosa |
 |---|---|
-| **Release** (tag `v<versione>-<code>`) | l'APK firmato, come allegato |
+| **Release** (tag `v<versione>`) | l'APK firmato, come allegato |
 | `latest.json` sul ramo | manifest del canale produzione: versione + indirizzo dell'APK |
 | `latest-beta.json` sul ramo | manifest del canale beta |
+
+Il tag e' **esattamente** la versione dell'app (`v0.12.172` per la versione
+`0.12.172`), e di APK nella release ce n'e' **uno solo**. Sono i due requisiti
+di Obtainium: la versione la prende dal tag e la confronta anche come stringa
+con quella installata, quindi un tag che porti dentro altro — il numero di
+build, per esempio — terrebbe l'app «da aggiornare» per sempre; e con due APK
+allegati non saprebbe quale prendere.
 
 Gli APK stanno negli **allegati delle Release** e non fra i file del ramo: un
 allegato non entra nella storia di git, e committare 55 MB a ogni rilascio
