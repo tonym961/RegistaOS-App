@@ -1,6 +1,6 @@
 {
-  "version_code": 189,
-  "version_name": "0.12.173",
-  "apk_url": "https://github.com/tonym961/RegistaOS-App/releases/download/v0.12.173/registaos-0.12.173.apk",
-  "notes": "Aggiornamenti da GitHub (release), server come seconda strada; repo compatibile con Obtainium"
+  "version_code": 190,
+  "version_name": "0.12.174",
+  "apk_url": "https://github.com/tonym961/RegistaOS-App/releases/download/v0.12.174/registaos-0.12.174.apk",
+  "notes": "Il ripristino dal pannello arriva anche su GitHub; il canale beta esce come prerelease; backup esteso a iVi, Caddy, nginx e chat"
 }
