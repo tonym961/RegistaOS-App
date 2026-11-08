@@ -1,6 +1,6 @@
 {
-  "version_code": 191,
-  "version_name": "0.12.175",
-  "apk_url": "https://github.com/tonym961/RegistaOS-App/releases/download/v0.12.175/registaos-0.12.175.apk",
-  "notes": "La Home e' una scheda sola come su IOTTY; il QR in alto apre subito la fotocamera e legge il talloncino; le Note si aprono dalla barra di Promemoria"
+  "version_code": 192,
+  "version_name": "0.12.176",
+  "apk_url": "https://github.com/tonym961/RegistaOS-App/releases/download/v0.12.176/registaos-0.12.176.apk",
+  "notes": "Aggiornamenti interni: rubrica del telefono e comandi vocali passano a librerie nuove. Nessuna funzione cambia. Se nella chat, aprendo Dal telefono, nomi o numeri non tornano, segnalatelo."
 }
