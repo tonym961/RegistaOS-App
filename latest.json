@@ -1,6 +1,6 @@
 {
-  "version_code": 190,
-  "version_name": "0.12.174",
-  "apk_url": "https://github.com/tonym961/RegistaOS-App/releases/download/v0.12.174/registaos-0.12.174.apk",
-  "notes": "Il ripristino dal pannello arriva anche su GitHub; il canale beta esce come prerelease; backup esteso a iVi, Caddy, nginx e chat"
+  "version_code": 191,
+  "version_name": "0.12.175",
+  "apk_url": "https://github.com/tonym961/RegistaOS-App/releases/download/v0.12.175/registaos-0.12.175.apk",
+  "notes": "La Home e' una scheda sola come su IOTTY; il QR in alto apre subito la fotocamera e legge il talloncino; le Note si aprono dalla barra di Promemoria"
 }
