@@ -1,6 +1,6 @@
 {
-  "version_code": 193,
-  "version_name": "0.12.177",
-  "apk_url": "https://github.com/tonym961/RegistaOS-App/releases/download/v0.12.177/registaos-0.12.177.apk",
-  "notes": "Le note si scrivono dall'app: nuova nota, cartelle, cestino, allegati dal telefono, e il widget Nuova nota da aggiungere alla schermata di casa. Sul promemoria c'è scritto chi te l'ha messo. Il tasto scansiona legge solo QR: apre il talloncino o registra un misuratore fiscale. Stampando il talloncino scegli quale copia. Chi non è più in squadra esce dai filtri ma si trova ancora in Cerca. Fiscale, per chi ha il permesso, per ora si legge: le verificazioni non si salvano finché in Gestione mancano nome, partita IVA e sigillo del laboratorio."
+  "version_code": 194,
+  "version_name": "0.12.178",
+  "apk_url": "https://github.com/tonym961/RegistaOS-App/releases/download/v0.12.178/registaos-0.12.178.apk",
+  "notes": "Correzione: nella schermata di accesso l'indirizzo del server non sborda più dal riquadro. Con un indirizzo lungo la riga in fondo si vedeva tagliata, ed è la riga che serve per cambiare server quando si resta bloccati fuori. Nient'altro cambia rispetto alla 0.12.177."
 }
