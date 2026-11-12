@@ -1,6 +1,6 @@
 {
-  "version_code": 194,
-  "version_name": "0.12.178",
-  "apk_url": "https://github.com/tonym961/RegistaOS-App/releases/download/v0.12.178/registaos-0.12.178.apk",
-  "notes": "Correzione: nella schermata di accesso l'indirizzo del server non sborda più dal riquadro. Con un indirizzo lungo la riga in fondo si vedeva tagliata, ed è la riga che serve per cambiare server quando si resta bloccati fuori. Nient'altro cambia rispetto alla 0.12.177."
+  "version_code": 195,
+  "version_name": "0.12.179",
+  "apk_url": "https://github.com/tonym961/RegistaOS-App/releases/download/v0.12.179/registaos-0.12.179.apk",
+  "notes": "Fiscale: dal numero di partita IVA si arriva all'anagrafica, e il controllo VIES c'è anche sul modulo della verificazione — dalla riga scoperta si apre il ticket con un tocco. Ticket: i filtri sono tuoi, non del telefono: quello che metti via dal browser, «dal… al…» compreso, resta via anche qui, e c'è scritto perché l'elenco è corto. Appuntamenti: ogni riga ha il suo tipo, così un lavoro iniziato in teleassistenza e finito in laboratorio si racconta per quello che è. Chat: i vocali diventano testo da leggere, in italiano, sotto la bolla. Note: dall'app si vede e si cambia chi la vede, e dal cestino torna a posto anche un file, non solo una nota. Widget: ognuno dei tre ha il suo nome e la sua anteprima (prima erano tre uguali) e il tocco ti porta DENTRO la sezione invece che nella Home; il Promemoria vede anche il mese prossimo e non si svuota più se la rete cade. Anagrafiche: un privato ha nome e cognome e il solo codice fiscale, la partita IVA non gli si chiede. E, quando verrà accesa, la verifica in due passaggi col codice chiesto anche dal telefono."
 }
