@@ -1,6 +1,6 @@
 {
-  "version_code": 196,
-  "version_name": "0.12.180",
-  "apk_url": "https://github.com/tonym961/RegistaOS-App/releases/download/v0.12.180/registaos-0.12.180.apk",
-  "notes": "Ticket: i filtri che metti dal browser adesso li segue il telefono per davvero — «dal… al…», l'anno, lo stato e anche «solo i ticket di Mario» — e ognuno si vede scritto in alto con la crocetta per toglierlo, così un elenco corto non sembra più un elenco rotto. E non succede più il contrario: l'app non cancella i filtri che hai scelto dal browser (prima bastava aprire la scheda Ticket la prima volta, o toccare una pastiglia dopo che la rete era caduta). «Chiusi» scelto dal browser ora mostra i chiusi, e uno stato come Fatturato non lascia più l'elenco vuoto. Tirando giù l'elenco si rileggono anche i filtri, non solo i ticket. Dentro, la verifica in due passaggi del telefono adesso si azzera davvero quando la azzeri da Gestione."
+  "version_code": 197,
+  "version_name": "0.12.181",
+  "apk_url": "https://github.com/tonym961/RegistaOS-App/releases/download/v0.12.181/registaos-0.12.181.apk",
+  "notes": "La notifica di un intervento adesso apre l'intervento, non la Home: dal tocco sulla notifica ti ritrovi sulla scheda giusta, con il rapportino davanti. Dentro, in Gestione c'è una mensola nuova (Strumenti → Tools) dove si installano pagine che girano nel browser e non mandano niente a nessuno: per ora è vuota."
 }
