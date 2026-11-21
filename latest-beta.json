@@ -1,6 +1,6 @@
 {
-  "version_code": 197,
-  "version_name": "0.12.181",
-  "apk_url": "https://github.com/tonym961/RegistaOS-App/releases/download/v0.12.181/registaos-0.12.181.apk",
-  "notes": "La notifica di un intervento adesso apre l'intervento, non la Home: dal tocco sulla notifica ti ritrovi sulla scheda giusta, con il rapportino davanti. Dentro, in Gestione c'è una mensola nuova (Strumenti → Tools) dove si installano pagine che girano nel browser e non mandano niente a nessuno: per ora è vuota."
+  "version_code": 198,
+  "version_name": "0.12.182",
+  "apk_url": "https://github.com/tonym961/RegistaOS-App/releases/download/v0.12.182/registaos-0.12.182.apk",
+  "notes": "Chiamare dalla chat, con tre strade al posto di una: col cellulare (parte dal tuo numero), col PBX (squilla il client 3CX che hai sul telefono e poi compone il cliente, che vede il numero dell'azienda e la chiamata resta nel registro) e con WhatsApp. Ogni voce compare solo se quella strada c'è davvero: con il centralino spento resta quello che c'era, cioè il telefono e i due link via internet. La strada WhatsApp si accende in Gestione quando c'è una linea configurata. Dal telefono la chiamata col PBX apre l'app del centralino col numero già pronto, composto come lo comporrebbe una persona."
 }
